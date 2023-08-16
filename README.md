@@ -7,8 +7,6 @@ For details look at the [Website](https://cc65.github.io).
 
 ## People
 
-Core team members:
-
 * [Christian Groessler](https://github.com/groessler): Atari, Atari5200, and CreatiVision library Maintainer
 * [dqh](https://github.com/dqh-au): GHA help
 * [Greg King](https://github.com/greg-king5): all around hackery
